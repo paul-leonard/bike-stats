@@ -25,3 +25,7 @@ This Jupyter notebook running Python code utilizing the pandas library manipulat
 ## Credits and Collaborations
 - Collaborated with Taylor Johnson
 - [pandas to_datetime](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html)
+- [Undoing a commit from one branch to put it on another](https://www.clearvision-cm.com/blog/what-to-do-when-you-commit-to-the-wrong-git-branch/)
+- [creating a dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)
+- [pandas is null](https://www.kite.com/python/answers/how-to-check-if-a-value-is-nan-in-pandas)
+- [pandas not null](https://stackoverflow.com/questions/33512372/proper-way-to-use-opposite-boolean-in-pandas-data-frame-boolean-indexing)

@@ -29,3 +29,4 @@ This Jupyter notebook running Python code utilizing the pandas library manipulat
 - [creating a dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)
 - [pandas is null](https://www.kite.com/python/answers/how-to-check-if-a-value-is-nan-in-pandas)
 - [pandas not null](https://stackoverflow.com/questions/33512372/proper-way-to-use-opposite-boolean-in-pandas-data-frame-boolean-indexing)
+- [pandas value counts](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html)

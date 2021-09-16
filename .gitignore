@@ -248,4 +248,7 @@ typings/
 # dotenv environment variables file
 .env
 
+# avoid uploading large data
+*.csv
+
 
